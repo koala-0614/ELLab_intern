@@ -1,4 +1,4 @@
-[BaseDataset] → [WrapperDataset] → [DataLoader] → [Method] → [Encoder] → [Head] → [Loss]
+[WrapperDataset] → [DataLoader] → [Method] → [Encoder] → [Head] → [Loss]
 
 # WrapperDataset
 ## Supervised / Classification
