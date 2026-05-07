@@ -1,5 +1,5 @@
-ELLab intern 기간동안 공부한 내용 -> documents
-아키텍쳐와 학습 방법 코드 모듈화 진행
+ELLab intern 기간동안 공부한 내용 -> documents  
+아키텍쳐와 학습 방법 코드 모듈화 진행  
 [WrapperDataset] → [DataLoader] → [Method] → [Encoder] → [Head] → [Loss]
 
 # WrapperDataset
