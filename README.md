@@ -1,5 +1,9 @@
-ELLab intern 기간동안 공부한 내용 -> documents  
-아키텍쳐와 학습 방법 코드 모듈화 진행  
+## ELLab intern 기간동안 공부한 내용을 정리했습니다.  
+presentation 자료는 documents에 있고 다양한 아키텍처와 학습 방법의 코드를 하나의 통합된 프레임워크로 모듈화했습니다.  
+Architectures: ResNet, PreActResNet, DenseNet, FractalNel, ViT  
+Methods: BYOL, SimSiam, MoCo, RotNet, SimCLR  
+인턴 기간 동안 AI 도구 사용은 최대한 지양하고 논문을 직접 읽고 구현하는 과정을 중심으로 학습했습니다.  
+
 [WrapperDataset] → [DataLoader] → [Method] → [Encoder] → [Head] → [Loss]
 
 # WrapperDataset
